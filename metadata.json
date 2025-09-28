@@ -1,0 +1,7 @@
+{
+  "name": "Click Metronome",
+  "description": "An advanced click metronome for musicians to craft their rhythm and perfect their timing. Features customizable time signatures, accent patterns, and a built-in recorder for practice sessions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
